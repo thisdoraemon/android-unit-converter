@@ -58,7 +58,7 @@ This project is licensed under the [MIT License](https://github.com/thisdoraemon
 
 If you have any questions or suggestions, feel free to reach out to the project maintainer:
 
-- Email: ezra.dev@gmail.com
+- Email: ezrantn.dev@gmail.com
 
 - GitHub: thisdoraemon
 
