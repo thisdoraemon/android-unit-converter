@@ -52,7 +52,7 @@ I welcome contributions to the Unit Converter App! If you'd like to contribute, 
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/thisdoraemon/android-unit-converter/blob/main/LICENSE).
 
 ## Contact
 
